@@ -33,7 +33,7 @@ public void draw()
  if (sizO<50)
    backtrack = false;
    
- System.out.println(sizO);
+
  
   
 }
